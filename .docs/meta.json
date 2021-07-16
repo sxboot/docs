@@ -1,0 +1,20 @@
+{
+	"version": 2,
+	"title": "sxboot documentation",
+	"icon": "https://static.omegazero.org/u/sxboot/logo.png",
+	"meta": {
+		"description": "Documentation for the sxboot boot loader",
+		"og:image": "https://static.omegazero.org/u/sxboot/logo.png"
+	},
+	"content": {
+		"default": "@Overview hidden",
+		"Overview": "overview.md",
+		"sep1": "- line",
+		"Build From Source": "build.md",
+		"Installation": "installation.md",
+		"Configuration File": "configfile.md",
+		"Boot Types": "boottypes.md",
+		"Menu": "menu.md",
+		"Command Line": "commandline.md"
+	}
+}
